@@ -1,0 +1,12 @@
+{
+	"/": [
+		"src/routes/+page.server.js"
+	],
+	"/inlog": [],
+	"/profile": [
+		"src/routes/profile/+page.server.js"
+	],
+	"/wizard": [
+		"src/routes/wizard/+page.server.js"
+	]
+}
